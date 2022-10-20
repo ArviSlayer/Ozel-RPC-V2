@@ -6,7 +6,7 @@ __Görünümü Bu Şekilde:__
 
 __rpc.js İçerisinde, ClintID Kısmına Girilecek Application ID'yi Alacağınız Yer:__
 
-![image](https://user-images.githubusercontent.com/69751083/164501416-a0c29c09-c49f-4982-92b0-86e6db6250a6.png)
+![Screenshot_1](https://user-images.githubusercontent.com/69751083/197006576-283063b0-1cd2-405b-b376-0010bb82cea0.png)
 ![image](https://user-images.githubusercontent.com/69751083/164500144-73a382c7-3a55-40c0-8b34-16e6216e655e.png)
 
 __rpc.js İçerisinde Bulunan "large_image" ve "small_image" İçin Fotoğrafları Buraya Koyacaksınız. Fotoğraflara Verdiğiniz İsmi "large_image" ve "small_image" Değerlerine Gireceksiniz:__
