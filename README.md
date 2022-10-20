@@ -9,7 +9,7 @@ __rpc.js İçerisinde, appId Kısmına Girilecek Application ID'yi Alacağınız
 ![Screenshot_1](https://user-images.githubusercontent.com/69751083/197006576-283063b0-1cd2-405b-b376-0010bb82cea0.png)
 ![image](https://user-images.githubusercontent.com/69751083/164500144-73a382c7-3a55-40c0-8b34-16e6216e655e.png)
 
-__rpc.js İçerisinde Bulunan "large_image" ve "small_image" İçin Fotoğrafları Buraya Koyacaksınız. Fotoğraflara Verdiğiniz İsmi "large_image" ve "small_image" Değerlerine Gireceksiniz:__
+__rpc.js İçerisinde Bulunan "largeImageKeyName" ve "smallImageKeyName" İçin Fotoğrafları Buraya Koyacaksınız. Fotoğraflara Verdiğiniz İsmi "largeImageKeyName" ve "smallImageKeyName" Değerlerine Gireceksiniz:__
 
 ![image](https://user-images.githubusercontent.com/69751083/164499206-7f385032-5d50-4c91-8113-7c01b9af7d87.png)
-![image](https://user-images.githubusercontent.com/69751083/164501304-5fcce6ba-fdfc-4e2d-8ce1-d49a8b52ed97.png)
+![Screenshot_2](https://user-images.githubusercontent.com/69751083/197007432-8e4cbd7e-6990-41b3-8434-d3d63eaa9222.png)
