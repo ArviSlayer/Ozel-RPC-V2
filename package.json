@@ -12,11 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sayrix/discord-richpresence.git"
+    "url": "git+https://github.com/ArviSlayer/Discord-Ozel-RPC-V2.git"
   },
   "author": "ArviS#0011",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Sayrix/discord-richpresence/issues"
+  "license": "ISC"
   }
 }
