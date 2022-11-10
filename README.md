@@ -6,6 +6,7 @@
 #
 
 __Görünümü Bu Şekilde:__
+
 ![image](https://user-images.githubusercontent.com/69751083/201160700-667c3070-9bbe-470c-a7c2-13238a6af225.png)
 
 
