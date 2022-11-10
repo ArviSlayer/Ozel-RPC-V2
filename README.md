@@ -1,3 +1,7 @@
+# Bota BİLEREK 3 Farklı Hata Bırakıldı
+3 Hatayıda Çözüp Botu Başlatabilirsiniz
+
+
 > **rpc.js İÇERİSİNDE NEREYE NEYİN GELECEĞİ DETAYLI BELİRTİLDİ**
 
 __Görünümü Bu Şekilde:__
@@ -13,3 +17,10 @@ __rpc.js İçerisinde Bulunan "largeImageKeyName" ve "smallImageKeyName" İçin 
 
 ![image](https://user-images.githubusercontent.com/69751083/164499206-7f385032-5d50-4c91-8113-7c01b9af7d87.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/69751083/197007432-8e4cbd7e-6990-41b3-8434-d3d63eaa9222.png)
+
+
+# İLETİŞİM
+> Discord: ArviS#0011
+
+> İnstagram: @arvis_here
+
