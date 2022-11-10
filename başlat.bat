@@ -1,5 +1,5 @@
 echo off
-title ArviS - Discord Ozel RPC V2
+title ArviS#0011 - Discord Ozel RPC V2
 color 04
 cls
 :a
