@@ -11,5 +11,6 @@
 #
 
 # 📷・GÖRSELLER
+![Screenshot_1](https://user-images.githubusercontent.com/69751083/211621326-e5e11222-bda2-43e0-a77b-a0fcd0c34f9c.png)
 
-
+![Screenshot_2](https://user-images.githubusercontent.com/69751083/211621336-c37a6a32-7085-4afc-b82d-74e360e77776.png)
