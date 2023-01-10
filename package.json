@@ -1,0 +1,28 @@
+{
+  "name": "arvis0011-discord-ozel-rpc-v2",
+  "version": "1.0.0",
+  "description": "ArviS#0011 - Discord Özel RPC V2",
+  "main": "arvis.js",
+  "scripts": {
+    "arvis:dev": "nodemon arvis.js",
+    "test": "node arvis.js"
+    },
+
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ArviSlayer/Ozel-RPC-V2.git"
+    },
+
+    "author": "ArviS#0011",
+    "license": "MIT",
+
+    "bugs": {
+      "url": "https://github.com/ArviSlayer/Ozel-RPC-V2/issues"
+    },
+
+    "homepage": "https://github.com/ArviSlayer/Ozel-RPC-V2#readme",
+    "dependencies": {
+    "discord-rpc": "^3.2.0",
+    "nodemon": "^2.0.20"
+  }
+}
