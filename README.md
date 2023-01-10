@@ -3,7 +3,7 @@
 # 
 
 # 📞・İLETİŞİM
-💙・**Discord:** ❖ ArviS#0011
+💙・**Discord:** ArviS#0011
 
 🔗・**Destek Sunucusu:** [Tıkla](https://discord.gg/3AfAFE5qYg)
 
