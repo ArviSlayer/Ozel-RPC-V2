@@ -2,6 +2,7 @@
 ⭐・**2 Hatayıda Çözüp Botu Başlatabilirsiniz**
 
 https://www.itemsatis.com/discord/ozel-rpc-v2-1741073.html
+
 https://www.itempazar.com/discord-uye-nitro-sunucu/ozel-rpc-v2-96087
 # 
 
