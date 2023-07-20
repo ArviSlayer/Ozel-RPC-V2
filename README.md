@@ -11,7 +11,7 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/ozel-rpc-v2-96087
 #
 
 # 📞・İLETİŞİM
-💙・**Discord:** ArviS#0011
+💙・**Discord:** arvis.
 
 🔗・**Destek Sunucusu:** [Tıkla](https://discord.gg/3AfAFE5qYg)
 
@@ -26,3 +26,6 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/ozel-rpc-v2-96087
 ![Screenshot_1](https://github.com/ArviSlayer/Ozel-RPC-V2/assets/69751083/b6e52239-33ed-4a3a-a496-eea50b6121c7)
 
 ![Screenshot_2](https://github.com/ArviSlayer/Ozel-RPC-V2/assets/69751083/75758226-f011-4ee4-bc74-f795aba1de78)
+
+# ❗・NOT
+😙・Hata çözümleri için yardım istemeyin. Hatalar, "gerçekten bilgisi olupta çözebilenlerle kullansın" diye var. O yüzden "hataları söyler misin? Hatalar konusunda yardımcı olur musun?" gibi sorularla gelmeyin.
