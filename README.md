@@ -1,6 +1,8 @@
 # 🤖・Bota BİLEREK 2 Farklı Hata Bırakıldı
 ⭐・**2 Hatayıda Çözüp Botu Başlatabilirsiniz**
+#
 
+# 💵・HATALARLA UĞRAŞMAK İSTEMİYORSANIZ SATIN ALABİLİRSİNİZ
 https://www.itemsatis.com/discord/ozel-rpc-v2-1741073.html
 
 https://www.itempazar.com/discord-uye-nitro-sunucu/ozel-rpc-v2-96087
