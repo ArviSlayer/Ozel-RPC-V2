@@ -11,6 +11,6 @@
 #
 
 # 📷・GÖRSELLER
-![Screenshot_1](https://user-images.githubusercontent.com/69751083/211621326-e5e11222-bda2-43e0-a77b-a0fcd0c34f9c.png)
+![Screenshot_1](https://github.com/ArviSlayer/Ozel-RPC-V2/assets/69751083/b6e52239-33ed-4a3a-a496-eea50b6121c7)
 
-![Screenshot_2](https://user-images.githubusercontent.com/69751083/211621336-c37a6a32-7085-4afc-b82d-74e360e77776.png)
+![Screenshot_2](https://github.com/ArviSlayer/Ozel-RPC-V2/assets/69751083/75758226-f011-4ee4-bc74-f795aba1de78)
