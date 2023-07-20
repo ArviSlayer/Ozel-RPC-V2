@@ -1,12 +1,14 @@
 # 🤖・Bota BİLEREK 2 Farklı Hata Bırakıldı
 ⭐・**2 Hatayıda Çözüp Botu Başlatabilirsiniz**
 #
+#
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
 https://www.itemsatis.com/discord/ozel-rpc-v2-1741073.html
 
 https://www.itempazar.com/discord-uye-nitro-sunucu/ozel-rpc-v2-96087
 # 
+#
 
 # 📞・İLETİŞİM
 💙・**Discord:** ArviS#0011
@@ -14,6 +16,7 @@ https://www.itempazar.com/discord-uye-nitro-sunucu/ozel-rpc-v2-96087
 🔗・**Destek Sunucusu:** [Tıkla](https://discord.gg/3AfAFE5qYg)
 
 💜・**Instagram:** [Tıkla](https://www.instagram.com/arvis_here/)
+#
 #
 
 # 📷・GÖRSELLER
